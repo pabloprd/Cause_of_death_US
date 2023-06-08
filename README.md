@@ -11,3 +11,5 @@ Marital Status
 Dates and years
 
 Each one of those points of interest was focused on the life expectancy and most common causes of death associated with each feature and subfuture. 
+
+(I was unable to upload the data table because it was too large for the repository to accept)
